@@ -1,0 +1,2 @@
+# E-Learning-System
+This E-Learning System is an online based system that is made of PHP, JavaScript, Bootstrap templates, JQuery and MYSQL database. This system is very helpful most especially if you are going to make online lessons, activities and also make quizzes. Using this system, the teacher can freely set activities based on the lesson that he uploaded whether it’s a pdf file or a video. Once the student already has an account on this system, he can now take the quizzes prepared by the teacher and even view the lessons.
